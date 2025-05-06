@@ -1,4 +1,11 @@
 TalkSHOW/ExpressiveWholeBodyDatasetReleaseV1.0/
 vocalist/videos/
 vocalist/vocalist_5f_lrs2.pth
-
+TalkSHOW/wandb/
+TalkSHOW/experiments/2025-04-13-smplx_S2G-body-pixel2/
+TalkSHOW/demo/rich/
+TalkSHOW/demo/song/
+TalkSHOW/demo/style/
+TalkSHOW/train_3d_mfcc.pkl
+TalkSHOW/train_3d_wv2.pkl
+TalkSHOW/experiments/2022-10-15-smplx_S2G-face-3d/
